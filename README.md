@@ -56,10 +56,12 @@ The Indoor Planting app is designed to enhance the indoor gardening experience b
 - **Front-End:** XML
 - **Backend Language:** Java
 - **Libraries & APIs:**
-  - **Database:** Realtime Firestore Database
+  - **Database:** Firebase Firestore Database
   - **For Authentication:** Firebase Auth Service
   - **For Image Storage:** Firebase Storage
   - **Plant Detection:** PlantNet API
+  - **Glide**: For Image Loading
+  - **Zelory Compressor**: For Image Compression
   - **RecyclerView:** For displaying plant data
 
 ## Screenshots
